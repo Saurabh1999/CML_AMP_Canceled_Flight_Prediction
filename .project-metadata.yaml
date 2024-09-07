@@ -24,7 +24,7 @@ environment_variables:
       Required when STORAGE_MODE=external. 
       Name of the database that the flight data is available in.
   DW_TABLE:
-    default: flights
+    default: 1234
     description: >-
       Required when STORAGE_MODE=external. 
       Name of data warehouse table that holds the flights data. 
